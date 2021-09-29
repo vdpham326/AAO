@@ -19,7 +19,7 @@ let rotateRight = function(array, num) {
         copy.unshift(el); //add the value removed to the front of the array
     }
 
-    return copy; //return the copy
+    return copy; //return the copyc
 };
 
 let arr = ['a', 'b', 'c', 'd', 'e'];
